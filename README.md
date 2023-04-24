@@ -26,15 +26,15 @@ docker的inspect命令具有size及type子命令
 - 如学生参加了多个项目，参赛学生选择一个自己参加的项目参与评奖
 - 请遵循“2021全国大学生操作系统比赛”的章程和技术方案要求
 
-###  *难度* 
-
-中
-
-### *导师* 
+### 项目导师
 
 [@zhangxiaoyu](https://gitee.com/zh_xiaoyu)
 
 *联系方式* [zhangxiaoyu58@huawei.com](mailto:zhangxiaoyu58@huawei.com)
+
+###  难度
+
+中
 
 ### License
 
